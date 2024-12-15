@@ -26,10 +26,10 @@ const Header = () => {
                       <Link href="/">Home</Link>
                     </li>
                     <li>
-                      <Link href="https://brickspace.vercel.app/swap">BTC to WBTC</Link>
+                      <Link href="https://mantle-briks.vercel.app/swap">BTC to WBTC</Link>
                     </li>
                     <li>
-                      <Link href="https://brickspace.vercel.app/reverse">WBTC to BTC</Link>
+                      <Link href="https://mantle-briks.vercel.app/reverse">WBTC to BTC</Link>
                     </li>
                     <li>
                       <a>Explore</a>
