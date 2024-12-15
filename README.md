@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/MantleBricks)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
-<img src="https://github.com/user-attachments/assets/e72ee99c-4124-4cb2-b217-b91b00b95c93" alt="logo-white" width="150"/>
+<img src="https://github.com/user-attachments/assets/e72ee99c-4124-4cb2-b217-b91b00b95c93" alt="logo-white" width="100"/>
 
 ---
 
